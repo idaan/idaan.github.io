@@ -1,6 +1,6 @@
 ---
 layout: post
-catagory: politics
+category: politics
 title: 政治模拟题答案链接
 tagline: by L.E.R
 tags: [politics, moni]

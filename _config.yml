@@ -126,9 +126,9 @@ JB :
   comments :
     provider : duoshuo
     duoshuo :
-      short_name : simpleyyt
+      short_name : Simpleyyt
     disqus :
-      short_name : simpleyyt
+      short_name : Simpleyyt
     livefyre :
       site_id : 123
     intensedebate :

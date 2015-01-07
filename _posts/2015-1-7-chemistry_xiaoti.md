@@ -1,7 +1,7 @@
 ---
 layout: post
 category: chemistry
-title: 化学小题狂做答案
+title: 化学小题狂做答案扫描版
 tagline: by L.E.R
 tags: [chemistry, xiaoti]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-category: politics
+category: [politics, outline]
 title: 2015小高考政治提纲
 tagline: by Etasry
 tags: [politics, outline]

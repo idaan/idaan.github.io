@@ -2,7 +2,7 @@
 layout: post
 category: chinese
 title: 高二语文期末复习--语言知识运用
-tagline: bt L.E.R
+tagline: bt 大天使 梅丹佐
 tags: chinese
 ---
 此练习整理自各大考试前5题  

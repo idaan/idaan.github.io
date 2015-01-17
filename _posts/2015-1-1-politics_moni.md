@@ -2,7 +2,7 @@
 layout: post
 category: politics
 title: 政治模拟题答案链接
-tagline: by L.E.R
+tagline: by 黄昏天使 达斯克儿
 tags: [politics, moni]
 ---
 模拟题3答案[链接](http://www.jazx.net/item/2755.aspx)

@@ -2,7 +2,7 @@
 layout: post
 category: chemistry
 title: 化学小题狂做答案扫描版
-tagline: by L.E.R
+tagline: by 碧蓝怒火 衣卒尔
 tags: [chemistry, xiaoti]
 ---
 本答案存储在图片站  

@@ -2,7 +2,7 @@
 layout: post
 category: [politics, outline]
 title: 2015小高考政治提纲
-tagline: by Etasry
+tagline: by 堕落天使 路西法
 tags: [politics, outline]
 ---
 2015年江苏省高中政治小高考提纲  

@@ -4,10 +4,9 @@ title: About Me
 header: About Me
 group: navigation
 ---
- * **Name:** L.E.R
- * **华夏荣氏网:** 荣懿
- * **Email:** [etasry@gmail.com](mailto:etasry@gmail.com)
- * **Tencent QQ:** [1239007947]()
- * **Github:** [L.E.R](https://github.com/L-E-R)
- * **homepage** [r.web.pe](http://r.web.pe)
- * **blog** [ler.look.in](http://ler.look.in)
+ * **Name:** Lucifer
+ * **Organization:** Angels Parliament
+ * **隶属组织:** 天使议会
+ * **Tencent QQ:** [1455326216]()
+ * **Github:** [LER0ever](https://github.com/LER0ever)
+ * **说明：** 由于政治原因，部分个人资料未显示

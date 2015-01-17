@@ -2,7 +2,7 @@
 layout: post
 category: [biology, outline]
 title: 小高考生物必修班复习提纲
-tagline: by Etasry
+tagline: by 堕落天使 路西法
 tags: [biology, outline]
 ---
 2015年小高考生物必修班复习提纲  

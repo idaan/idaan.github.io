@@ -15,19 +15,19 @@ tagline: 天使议会版权所有
 # Information about author
 #
 author :
-  name : L.E.R
+  name : 天使议会
   
 # Information for contacts showed at on the footer
 #
 contact :
-  e-mail : mailto:etasry@gmail.com
-  Github : https://github.com/L-E-R
+  e-mail : mailto:L.E.R@aol.com
+  Github : https://github.com/LER0ever
   WeiBo : http://www.weibo.com/u/
   
 # Links showed on the footer
 #
 links :
-  L.E.R's Blog : http://etasry.github.io/
+  my Blog : http://etasry.github.io/
 
 # The search engine. Only support google custom search engine.
 #
@@ -67,7 +67,7 @@ auto_loadmore : true
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://idaan.github.io
+production_url : http://ixxoo.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
